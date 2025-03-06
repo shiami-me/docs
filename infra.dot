@@ -1,0 +1,11 @@
+digraph INFRA {
+  node [ color = "black", fillcolor = "#E6E6E6", height =1, style = "filled,bold,rounded", fontname = "Arial" ];
+  "PinataStorage" [ label = "PinataStorage
+(Custom::PinataStorage)", shape =cylinder, fillcolor = "#FFF5CD" ];
+  "TokenDeploymentManager" [ label = "TokenDeploymentManager
+(Custom::TokenDeploymentManager)", shape =rectangle ];
+  "Shiami" [ label = "Shiami
+(Custom::Shiami)", shape =rectangle, fillcolor = "#B7E0FF" ];
+  "PostgresDatabase" [ label = "PostgresDatabase
+(AWS::RDS::DBInstance)", shape =cylinder, fillcolor = "#FFCFB3" ];
+}
