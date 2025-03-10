@@ -16,3 +16,4 @@
 
 * [Architecture](technical-details/architecture.md)
 * [ZerePy Deliverables](technical-details/zerepy-deliverables.md)
+* [What's next for Shiami?](technical-details/whats-next-for-shiami.md)
