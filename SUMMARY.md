@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Overview](README.md)
+* [Why is Shiami important?](why-is-shiami-important.md)
 
 ## Getting Started
 
