@@ -18,6 +18,7 @@
 * [Architecture](technical-details/architecture.md)
 * [ZerePy Deliverables](technical-details/zerepy-deliverables.md)
 * [Work In Progress](technical-details/work-in-progress.md)
+* [(Beta) LSTM Based Price Prediction](technical-details/beta-lstm-based-price-prediction.md)
 
 ***
 

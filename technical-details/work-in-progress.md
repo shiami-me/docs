@@ -8,4 +8,4 @@ icon: user-helmet-safety
 
 Although, we have integrated DeBridge but there have been some noticeable issues in some cases
 
-[https://github.com/shiami-me/ZerePy/blob/main/src/connections/debridge\_connection.py](https://github.com/shiami-me/ZerePy/blob/main/src/connections/debridge_connection.py)
+{% embed url="https://github.com/shiami-me/ZerePy/blob/main/src/connections/debridge_connection.py" %}
