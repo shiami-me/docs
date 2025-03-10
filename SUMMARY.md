@@ -14,4 +14,4 @@
 
 ## Technical Details
 
-* [Page 1](technical-details/page-1.md)
+* [Architecture](technical-details/architecture.md)
