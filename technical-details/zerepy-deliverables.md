@@ -1,3 +1,7 @@
+---
+icon: python
+---
+
 # ZerePy Deliverables
 
 As part of our development roadmap, we've been actively contributing to the ZerePy project with several key integrations:

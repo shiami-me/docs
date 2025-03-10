@@ -16,4 +16,8 @@
 
 * [Architecture](technical-details/architecture.md)
 * [ZerePy Deliverables](technical-details/zerepy-deliverables.md)
-* [What's next for Shiami?](technical-details/whats-next-for-shiami.md)
+* [Work In Progress](technical-details/work-in-progress.md)
+
+***
+
+* [What's next for Shiami?](whats-next-for-shiami.md)
