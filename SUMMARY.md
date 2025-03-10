@@ -15,3 +15,4 @@
 ## Technical Details
 
 * [Architecture](technical-details/architecture.md)
+* [ZerePy Deliverables](technical-details/zerepy-deliverables.md)
