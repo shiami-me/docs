@@ -19,6 +19,8 @@ Ex - deposit Collateral 1000 USDC into Sonic/USDC pair
 
 or, deposit Protected 100 Sonic into Sonic/USDC pair
 
+Optional Argument - Market ID
+
 <figure><img src="../../.gitbook/assets/ezgif-5235060c8e3e5b.gif" alt=""><figcaption></figcaption></figure>
 
 ### Silo Position Details
@@ -27,6 +29,8 @@ View your position details for a specific Silo Market.
 
 Ex - get my position details for S/USDC pair
 
+Optional Argument - Market ID
+
 <figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 ### Other Operations
@@ -34,5 +38,7 @@ Ex - get my position details for S/USDC pair
 Shiami also supports withdraw, repay, and borrow.
 
 You can also use the dashboard solely for interacting with the Silo markets
+
+You can also filter markets by tokens, ex - "get Silo markets for Sonic and USDC"
 
 <figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption><p><a href="https://www.shiami.me/dashboard/silo/20">https://www.shiami.me/dashboard/silo/20</a></p></figcaption></figure>
