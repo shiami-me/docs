@@ -108,7 +108,14 @@ View your positions and other details about pools on the Details Page.
     "Take out exactly 500 stS from my liquidity in Beets pool 'Conspiracy Concerto'".\
     "Remove unbalanced 1wS from 'Staked Sonic Symphony'"
 
-    "Withdraw 20 BPT with boosted proportional strategy from 'Conspiracy Concerto' pool"
+    "Withdraw 20 BPT with boosted proportional strategy from 'Conspiracy Concerto' pool"\
+
+8.  **Swap using Beets**
+
+    Examples -
+
+    \
+    "I want to swap 10 stS for USDC.e on Beets with 0.5 percent slippage"
 
 <figure><img src="../../.gitbook/assets/ezgif-1291bb1bf556d5.gif" alt=""><figcaption></figcaption></figure>
 
