@@ -11,6 +11,18 @@ description: Shiami allows seemless access to all the Silo Finance Markets
 
 <figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption><p><a href="https://www.shiami.me/dashboard/silo">https://www.shiami.me/dashboard/silo</a></p></figcaption></figure>
 
+### Finding Looping Opportunities
+
+You can use Shiami for finding looping strategies using Silo Markets. It also returns a yield table which simulates the strategy.&#x20;
+
+Best Part - It is very easy to use and understand
+
+Example - "simulate looping strategy for S and stS" or "find top 5 looping strategies on Silo Finance"
+
+Works like a charm✨
+
+<figure><img src="../../.gitbook/assets/ezgif-2b54d109dd3575.gif" alt=""><figcaption></figcaption></figure>
+
 ### Silo Deposit
 
 Deposit protected/collateral-based assets to Silo Markets.
@@ -35,7 +47,7 @@ Optional Argument - Market ID
 
 ### Other Operations
 
-Shiami also supports withdraw, repay, and borrow.
+Shiami also supports withdraw, repay, borrow or claim rewards.
 
 You can also use the dashboard solely for interacting with the Silo markets
 
