@@ -13,15 +13,16 @@ description: Shiami allows seemless access to all the Silo Finance Markets
 
 ### Finding Looping Opportunities
 
-You can use Shiami for finding looping strategies using Silo Markets. It also returns a yield table which simulates the strategy.&#x20;
+You can use Shiami for finding looping strategies using Silo Markets.
 
-Best Part - It is very easy to use and understand
+Currently, intra-market looping opportunities are supported.\
+Use the yield table to plan and decide how many loops to run for max gains.
 
 Example - "simulate looping strategy for S and stS" or "find top 5 looping strategies on Silo Finance"
 
 Works like a charm✨
 
-<figure><img src="../../.gitbook/assets/ezgif-2b54d109dd3575.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ezgif-8835eb8b4d7afe.gif" alt=""><figcaption></figcaption></figure>
 
 ### Silo Deposit
 
