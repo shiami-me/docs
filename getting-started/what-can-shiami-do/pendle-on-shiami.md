@@ -83,7 +83,7 @@ Provide balanced liquidity to Pendle stS market with 10 stS and 5 PT
 
 #### Zero Price Impact (ZPI) Liquidity
 
-Add liquidity without affecting the market price:
+Add liquidity without affecting the market price and get both LP and YT tokens:
 
 ```
 Add liquidity to stS Pendle market with zero price impact using 200 USDC.e
