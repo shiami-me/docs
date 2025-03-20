@@ -4,13 +4,13 @@ description: Automate On-chain tasks using AI Agent workflows
 
 # Agent Workflows
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p><a href="https://www.shiami.me/dashboard/create-agent">https://www.shiami.me/dashboard/create-agent</a></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p><a href="https://www.shiami.me/dashboard/create-agent">https://www.shiami.me/dashboard/create-agent</a></p></figcaption></figure>
 
 ### Create Agent Workflows
 
 1. (Optional) Delegate your Privy Embedded Wallet for allowing Shiami to execute transactions on your behalf
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 2.  Navigate to the Create Agent page and create your agent workflow
 

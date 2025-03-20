@@ -7,6 +7,8 @@ You can interact with Pendle in two ways:
 1. **Natural language commands** - Simply type what you want to do
 2. **Specialized Pendle Dashboard(of course)**
 
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p><a href="https://www.shiami.me/dashboard/pendle">https://www.shiami.me/dashboard/pendle</a></p></figcaption></figure>
+
 ### Exploring Markets and Assets
 
 #### Viewing All Markets
@@ -52,6 +54,8 @@ Show me all Pendle PT tokens
 ```
 
 ### Providing Liquidity
+
+<figure><img src="../../.gitbook/assets/ezgif-3c3598b2a384c3.gif" alt=""><figcaption></figcaption></figure>
 
 #### Adding Single-token Liquidity
 
