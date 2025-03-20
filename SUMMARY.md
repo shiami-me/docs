@@ -10,6 +10,7 @@
   * [Basic Operations](getting-started/what-can-shiami-do/basic-operations.md)
   * [Silo Finance Operations](getting-started/what-can-shiami-do/silo-finance-operations.md)
   * [Beets on Sonic](getting-started/what-can-shiami-do/beets-on-sonic.md)
+  * [Pendle on Shiami](getting-started/what-can-shiami-do/pendle-on-shiami.md)
   * [Agent Workflows](getting-started/what-can-shiami-do/agent-workflows.md)
   * [Miscellaneous](getting-started/what-can-shiami-do/miscellaneous.md)
 
