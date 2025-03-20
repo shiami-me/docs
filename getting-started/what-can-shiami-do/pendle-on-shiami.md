@@ -1,9 +1,5 @@
 # Pendle on Shiami
 
-## Pendle Finance Operations
-
-Pendle Finance is a yield trading protocol that allows users to trade, provide liquidity, and separate yield into Principal Tokens (PT) and Yield Tokens (YT).
-
 ### Getting Started with Pendle on Shiami
 
 You can interact with Pendle in two ways:
