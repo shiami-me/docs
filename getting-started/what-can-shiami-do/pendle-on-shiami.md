@@ -53,7 +53,7 @@ Show me all Pendle PT tokens
 
 ### Providing Liquidity
 
-#### Adding Single-sided Liquidity
+#### Adding Single-token Liquidity
 
 Provide liquidity with a single token:
 
