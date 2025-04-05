@@ -13,13 +13,11 @@
   * [Pendle on Shiami](getting-started/what-can-shiami-do/pendle-on-shiami.md)
   * [Agent Workflows](getting-started/what-can-shiami-do/agent-workflows.md)
   * [Miscellaneous](getting-started/what-can-shiami-do/miscellaneous.md)
+  * [Stake on Angles](getting-started/what-can-shiami-do/stake-on-angles.md)
 
 ## Technical Details
 
 * [Architecture](technical-details/architecture.md)
-* [ZerePy Deliverables](technical-details/zerepy-deliverables.md)
-* [Work In Progress](technical-details/work-in-progress.md)
-* [(Beta) LSTM Based Price Prediction](technical-details/beta-lstm-based-price-prediction.md)
 
 ***
 

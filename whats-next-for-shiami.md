@@ -4,15 +4,9 @@ icon: rocket-launch
 
 # What's next for Shiami?
 
-### $SHIAMI token
+###
 
-We plan to launch $SHIAMI token.&#x20;
-
-Our goal is to create a scalable architecture while incentivizing our users.&#x20;
-
-Therefore, our users will soon be allowed to host shiami, through Libp2p which will help them earn $SHIAMI tokens.
-
-### Agent Workflows
+Agent Workflows
 
 Currently, on-chain agents aren't available. Supported Agents include  - text, image, scheduler, price\_predictor, image.
 
