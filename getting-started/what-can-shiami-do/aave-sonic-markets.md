@@ -12,9 +12,8 @@ You can interact with the Aave V3 protocol on the Sonic network directly through
 
 To see all available Aave V3 markets on Sonic and their current rates:
 
-```
-Show me all Aave V3 markets
-```
+<pre><code><strong>Show me all Aave V3 markets
+</strong></code></pre>
 
 or
 
