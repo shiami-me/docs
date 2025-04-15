@@ -6,7 +6,7 @@ description: Interact with OS using Shiami Chatbot or Dashboard
 
 ### Origin Dashboard
 
-1. Swap supported tokens to OS/wOS and vice versa, powered by KyberSwap.
+1. Swap supported tokens for OS/wOS and vice versa, powered by KyberSwap.
 2. Browse DeFi opportunities that use Origin tokens on Silo, Pendle, and Beets.fi.
 3. Interact with these DeFi protocols directly through the Shiami Origin Dashboard.
 
