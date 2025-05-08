@@ -1,8 +1,8 @@
 # Shadow on Shiami
 
-#### Exploring Pools
+### Exploring Pools
 
-**Viewing Legacy Pools**
+#### Viewing Legacy Pools
 
 To see all available legacy pools on Shadow:
 
@@ -16,7 +16,7 @@ or
 Get legacy pools with token0Symbol as USDC on Shadow
 ```
 
-**Exploring Concentrated Liquidity Pools**
+#### Exploring Concentrated Liquidity Pools
 
 To get details about concentrated liquidity pools:
 
@@ -30,11 +30,11 @@ or
 Get CL pools with token0Symbol as USDC on Shadow
 ```
 
-#### Providing Liquidity
+### Providing Liquidity
 
 > **Note:** Adding and removing liquidity is currently available only for Legacy Pools.
 
-**Adding Liquidity to Pools**
+#### Adding Liquidity to Pools
 
 Provide liquidity to a pool:
 
@@ -48,7 +48,7 @@ or with slippage settings:
 Add liquidity to USDC.e/aSonUSDC pool on Shadow with 1% slippage
 ```
 
-**Adding Liquidity with Sonic**
+#### Adding Liquidity with Sonic
 
 Provide liquidity using Sonic tokens:
 
@@ -62,7 +62,7 @@ or
 Add liquidity to S/SHADOW pool on shadow with 1% slippage
 ```
 
-**Adding Liquidity and Staking**
+#### Adding Liquidity and Staking
 
 Add liquidity and automatically stake your LP tokens:
 
@@ -80,7 +80,7 @@ Add liquidity and stake to S/SHADOW pool on shadow with 1% slippage
 
 > **Note:** Adding and removing liquidity is currently available only for Legacy Pools.
 
-**Removing Liquidity**
+#### Removing Liquidity
 
 Withdraw your liquidity position:
 
@@ -94,7 +94,7 @@ or with slippage protection:
 Remove 50% LP from USDC.e/aSonUSDC pool on Shadow with 1% slippage
 ```
 
-**Removing Liquidity with Sonic**
+#### Removing Liquidity with Sonic
 
 Remove liquidity from Sonic token pairs:
 
@@ -110,7 +110,7 @@ Remove 5% LP tokens from S/SHADOW pool on shadow with 1% slippage
 
 #### Staking and Rewards
 
-**Checking Your Position**
+#### Checking Your Position
 
 View your current position in a pool:
 
@@ -118,7 +118,7 @@ View your current position in a pool:
 Get shadow position for USDC.e/aSonUSDC pool
 ```
 
-**Staking LP Tokens**
+#### Staking LP Tokens
 
 Stake your LP tokens to earn rewards:
 
@@ -132,7 +132,7 @@ or
 Stake all LP tokens in USDC.e/aSonUSDC pool on shadow
 ```
 
-**Unstaking LP Tokens**
+#### Unstaking LP Tokens
 
 Withdraw your staked LP tokens:
 
@@ -146,7 +146,7 @@ or
 Unstake all LP tokens from USDC.e/aSonUSDC pool on shadow
 ```
 
-#### Claiming Rewards
+### Claiming Rewards
 
 Harvest your earned rewards:
 
