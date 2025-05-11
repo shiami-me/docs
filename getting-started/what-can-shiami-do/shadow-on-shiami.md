@@ -32,37 +32,35 @@ Get CL pools with token0Symbol as USDC on Shadow
 
 ### Providing Liquidity
 
-> **Note:** Adding and removing liquidity is currently available only for Legacy Pools.
-
-#### Adding Liquidity to Pools
-
-Provide liquidity to a pool:
-
-```
-Add liquidity to USDC.e/aSonUSDC pool on Shadow
-```
-
-or with slippage settings:
-
-```
-Add liquidity to USDC.e/aSonUSDC pool on Shadow with 1% slippage
-```
-
-#### Adding Liquidity with Sonic
+#### Adding Liquidity
 
 Provide liquidity using Sonic tokens:
 
 ```
-Add liquidity to USDC.e/S pool on shadow
+Add liquidity to S/USDC.e pool on Shadow
 ```
 
 or
 
 ```
-Add liquidity to S/SHADOW pool on shadow with 1% slippage
+Add liquidity to S/SHADOW pool on Shadow with 1% slippage
 ```
 
-#### Adding Liquidity and Staking
+#### Creating Concentrated Liquidity Positions
+
+Create a new concentrated liquidity position:
+
+```
+Create a new position on S/USDC.e pool on Shadow
+```
+
+or with custom slippage:
+
+```
+Create a new position on wS/USDC.e pool on Shadow with 1% slippage
+```
+
+#### Adding Liquidity and Staking(Legacy Pools)
 
 Add liquidity and automatically stake your LP tokens:
 
@@ -73,49 +71,33 @@ Add liquidity to USDC.e/aSonUSDC pool on Shadow and stake
 or
 
 ```
-Add liquidity and stake to S/SHADOW pool on shadow with 1% slippage
+Add liquidity and stake to S/SHADOW pool on Shadow with 1% slippage
 ```
 
-#### Managing Your Liquidity
-
-> **Note:** Adding and removing liquidity is currently available only for Legacy Pools.
+### Managing Your Liquidity
 
 #### Removing Liquidity
 
-Withdraw your liquidity position:
+Remove liquidity from your CL/Legacy positions:
 
 ```
-Remove 10% LP from USDC.e/aSonUSDC pool on Shadow
+Remove 10% LP from S/USDC.e pool on Shadow
 ```
 
-or with slippage protection:
+or with wrapped Sonic:
 
 ```
-Remove 50% LP from USDC.e/aSonUSDC pool on Shadow with 1% slippage
+Remove 10% LP from wS/SHADOW pool on Shadow with 1% slippage
 ```
 
-#### Removing Liquidity with Sonic
-
-Remove liquidity from Sonic token pairs:
-
-```
-Remove 10% LP from USDC.e/S pool on Shadow
-```
-
-or
-
-```
-Remove 5% LP tokens from S/SHADOW pool on shadow with 1% slippage
-```
-
-#### Staking and Rewards
+### Staking and Rewards
 
 #### Checking Your Position
 
 View your current position in a pool:
 
 ```
-Get shadow position for USDC.e/aSonUSDC pool
+Get shadow position for USDC.e/aSonUSDC pool on Shadow
 ```
 
 #### Staking LP Tokens
@@ -123,13 +105,19 @@ Get shadow position for USDC.e/aSonUSDC pool
 Stake your LP tokens to earn rewards:
 
 ```
-Stake 10% of LP tokens in USDC.e/aSonUSDC pool on shadow
+Stake 10% of LP tokens in USDC.e/aSonUSDC pool on Shadow
 ```
 
 or
 
 ```
-Stake all LP tokens in USDC.e/aSonUSDC pool on shadow
+Stake all LP tokens in USDC.e/aSonUSDC pool on Shadow
+```
+
+You can also use:
+
+```
+Deposit all LP tokens in USDC.e/aSonUSDC pool on Shadow
 ```
 
 #### Unstaking LP Tokens
@@ -137,13 +125,19 @@ Stake all LP tokens in USDC.e/aSonUSDC pool on shadow
 Withdraw your staked LP tokens:
 
 ```
-Unstake 10% of LP tokens from USDC.e/aSonUSDC pool on shadow
+Unstake 10% of LP tokens from USDC.e/aSonUSDC pool on Shadow
 ```
 
 or
 
 ```
-Unstake all LP tokens from USDC.e/aSonUSDC pool on shadow
+Unstake all LP tokens from USDC.e/aSonUSDC pool on Shadow
+```
+
+You can also use:
+
+```
+Withdraw all LP tokens from USDC.e/aSonUSDC pool on Shadow
 ```
 
 ### Claiming Rewards
@@ -151,11 +145,11 @@ Unstake all LP tokens from USDC.e/aSonUSDC pool on shadow
 Harvest your earned rewards:
 
 ```
-Claim all legacy rewards on shadow
+Claim all legacy rewards on Shadow
 ```
 
 or
 
 ```
-Claim all CL rewards on shadow
+Claim all CL rewards on Shadow
 ```
