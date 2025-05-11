@@ -30,7 +30,7 @@ icon: rocket-launch
 * Wallet transfers
 * Portfolio tracking (basic)
 
-#### Special Offer
+
 
 **Zero Fees during MVP**\
 No platform fees for users interacting during the early-stage MVP.
