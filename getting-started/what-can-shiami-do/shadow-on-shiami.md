@@ -30,6 +30,8 @@ or
 Get CL pools with token0Symbol as USDC on Shadow
 ```
 
+***
+
 ### Providing Liquidity
 
 #### Adding Liquidity
@@ -74,6 +76,8 @@ or
 Add liquidity and stake to S/SHADOW pool on Shadow with 1% slippage
 ```
 
+***
+
 ### Managing Your Liquidity
 
 #### Removing Liquidity
@@ -89,6 +93,8 @@ or with wrapped Sonic:
 ```
 Remove 10% LP from wS/SHADOW pool on Shadow with 1% slippage
 ```
+
+***
 
 ### Staking and Rewards
 
@@ -139,6 +145,8 @@ You can also use:
 ```
 Withdraw all LP tokens from USDC.e/aSonUSDC pool on Shadow
 ```
+
+***
 
 ### Claiming Rewards
 
